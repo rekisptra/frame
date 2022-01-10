@@ -20,24 +20,3 @@
   <a href="https://github.com/OneTXz"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
 </p>
 
-## ```How to install```
-
-[`Click Here`](https://www.caratech.my.id)<br>
-
-<p align="center">
-  <a href="https://www.caratech.my.id"><img src="https://j.top4top.io/p_2201zz07j0.jpg" />
-</p>
-
-
-
-## ```coffee ☕```
-
-- [`SAWERIA`](https://saweria.co/CaraTech)
-
-## ```Thanks To```
-
-- [`Zahir`]()
-- [`Eka`]()
-- [`Farhan`]()
-- [`Ojan`]()
-- [`ZeeoneOfc`]()
