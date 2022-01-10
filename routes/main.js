@@ -44,7 +44,7 @@ var port = process.env.PORT || 8080 || 5000 || 3000
         speed: `${neww - old}ms`,
         info:{       
             owner: 'alpin',            
-            apikey: 'Chat Owner: https://wa.me/6289690719275'
+            apikey: 'Chat Owner: https://wa.me/6289508902582'
         }
     }
     res.json(status)
