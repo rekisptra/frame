@@ -23,17 +23,17 @@
 
 ## ```How to install```
 
-[`Click Here For Tutorial`](https://youtu.be/BCY6V2PDDEA)<br>
+[`Click Here`](https://www.caratech.my.id)<br>
 
 <p align="center">
-  <a href="https://youtu.be/BCY6V2PDDEA"><img src="https://telegra.ph/file/a5f2d77a88420560ed8c5.jpg" />
+  <a href="https://www.caratech.my.id"><img src="https://j.top4top.io/p_2201zz07j0.jpg" />
 </p>
 
 
 
 ## ```coffee ☕```
 
-- [`SAWERIA`](https://saweria.co/zeeoneofc)
+- [`SAWERIA`](https://saweria.co/CaraTech)
 
 ## ```Thanks To```
 
